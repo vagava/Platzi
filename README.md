@@ -9,5 +9,5 @@ Las notas estan registradas en [Notion](https://www.notion.so/4372e7de863049eba5
 ## Indice
 Lenguaje | Curso
 ------------ | -------------
-Python | [Curso de Flask]()
+Python | [Curso de Flask](https://github.com/vagava/Platzi/tree/main/Flask)
 Python | [Curso Django]()
