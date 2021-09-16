@@ -1,0 +1,2 @@
+#especificacion de las dependencias que necesita esta aplicacion
+flask
